@@ -1,4 +1,2 @@
 # Calculator-using-tkinter
-open command prompt and type
-        pip install tkinter
-this will install the tkinter gui on your computer
+This program will allow you to make a calculator with GUI using tkinter
